@@ -6,4 +6,5 @@ So, I came up with two pilot projects.
 [![Blink Pager](http://img.youtube.com/vi/2xVDDgs_4EI/0.jpg)](http://www.youtube.com/watch?v=2xVDDgs_4EI "Video Title")
  
 3. **1Bit Typer**   I have built this application first to wirk with a mouse button. I was to merge this project with blinking detection, which eventually did not happen. 
-[1 Bit typer demo video](http://img.youtube.com/vi/qXcb0MDoz9o/0.jpg)](http://www.youtube.com/watch?v=qXcb0MDoz9o "Video Title") 
+ 
+ [![1Bit typer](http://img.youtube.com/vi/qXcb0MDoz9o/0.jpg)](http://www.youtube.com/watch?v=qXcb0MDoz9o "Video Title")
