@@ -3,4 +3,7 @@ I decided to reach out to Dániel offering the [Careless-AudioBookPlayer](https:
 He replied soon for my e-mail. He was not interested in listening to audiobooks, but was interested in making possible reading alone and a tool that made him easier to communicate. 
 So, I came up with two pilot projects. 
 1. Following a [PyImageSearch](https://pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/) tutorial, I was able to build a pdf reading application, that was using the webcam to monitor the reader and turn the page upon a long blink. Telling the long intentional and short unintentional blinks apart was not easy. 
-3. [1 Bit typer](https://www.youtube.com/watch?v=qXcb0MDoz9o). I have built this application first to wirk with a mouse button. I was to merge this project with blinking detection, which eventually did not happen. 
+[![Blink Pager](http://img.youtube.com/vi/2xVDDgs_4EI/0.jpg)](http://www.youtube.com/watch?v=2xVDDgs_4EI "Video Title")
+ 
+3. **1Bit Typer**   I have built this application first to wirk with a mouse button. I was to merge this project with blinking detection, which eventually did not happen. 
+[1 Bit typer demo video](http://img.youtube.com/vi/qXcb0MDoz9o/0.jpg)](http://www.youtube.com/watch?v=qXcb0MDoz9o "Video Title") 
