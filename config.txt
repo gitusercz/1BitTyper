@@ -1,0 +1,8 @@
+Cycle time (millisec)=400
+Window width=1200
+Window height=600
+Font size=24
+Highlight color=white
+Background color=gray
+Send emails to=czibere.a@gmail.com
+Email subject=Egy ujjas mail
