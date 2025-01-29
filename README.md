@@ -32,6 +32,9 @@ Here are the parameters that can be set for this application:
 
 ![image](resources/config.jpg)
 
+In finding the best order for characters I researched for the occurence rate of letters in hungarian words, and found this statistics. This was the base I designed which characters should go to the most accessible places. 
+
+![image](resources/gyakorisag.jpg)
 
 I was to merge this project with blinking detection, which eventually did not happen. 
 Czibere Attila, 2025-01
