@@ -15,15 +15,21 @@ Following a [PyImageSearch](https://pyimagesearch.com/2017/04/24/eye-blink-detec
  
  ## 1Bit Typer
 I have built this application first to work with a mouse button. 
+
   [![1Bit typer](http://img.youtube.com/vi/qXcb0MDoz9o/0.jpg)](http://www.youtube.com/watch?v=qXcb0MDoz9o "Video Title")
 
 Since upload of the video, some new features got implemented:
+
 ![image](resources/sendasamail.jpg)
+
 The typed message gets sent to a pre defined mail address with a pre defined mail subject. 
+
 ![image](resources/speak_out_loud.jpg)
+
 The typed message is read aloud with Windows' voice. It speaks Hungarian surprisingly well. 
 
 Here are the parameters that can be set for this application: 
+
 ![image](resources/config.jpg)
 
 
